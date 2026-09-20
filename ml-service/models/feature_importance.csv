@@ -1,0 +1,42 @@
+Feature,Importance
+Follicle No. (R),0.12747414
+hair growth(Y/N),0.0734492
+Skin darkening (Y/N),0.06664257
+Follicle No. (L),0.06561577
+Weight gain(Y/N),0.059612103
+Fast food (Y/N),0.036925834
+Cycle(R/I),0.03340933
+Pimples(Y/N),0.029814271
+Cycle length(days),0.027177444
+AMH(ng/mL),0.026984183
+Reg.Exercise(Y/N),0.025032394
+FSH/LH,0.02031363
+Avg. F size (R) (mm),0.020123707
+BP _Systolic (mmHg),0.01989119
+BMI,0.019656144
+Weight (Kg),0.019479975
+Pulse rate(bpm) ,0.018360408
+RBS(mg/dl),0.018162003
+Hip(inch),0.017093886
+Avg. F size (L) (mm),0.01629603
+ Age (yrs),0.016140765
+Marraige Status (Yrs),0.0156782
+TSH (mIU/L),0.015408324
+Waist(inch),0.014845034
+Height(Cm) ,0.014780965
+Hb(g/dl),0.014252424
+Endometrium (mm),0.014183519
+No. of aborptions,0.013924409
+LH(mIU/mL),0.013856195
+Waist:Hip Ratio,0.013643767
+II    beta-HCG(mIU/mL),0.012109943
+PRL(ng/mL),0.012039916
+FSH(mIU/mL),0.011386393
+Pregnant(Y/N),0.010850882
+Vit D3 (ng/mL),0.010780332
+Blood Group,0.010743111
+PRG(ng/mL),0.01021145
+Hair loss(Y/N),0.009834464
+  I   beta-HCG(mIU/mL),0.009664007
+RR (breaths/min),0.007349491
+BP _Diastolic (mmHg),0.0068022176

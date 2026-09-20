@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Lunara",
+    "slug": "lunara",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#251F3D"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Lunara uses your camera to detect facial emotion cues for your wellness check-ins.",
+        "NSMicrophoneUsageDescription": "Lunara uses your microphone to detect voice emotion cues for your wellness check-ins."
+      }
+    },
+    "android": {
+      "package": "com.lunara.app",
+      "permissions": ["CAMERA", "RECORD_AUDIO"],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#251F3D"
+      }
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Lunara uses your camera to detect facial emotion cues for your wellness check-ins."
+        }
+      ]
+    ]
+  }
+}
