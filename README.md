@@ -139,7 +139,7 @@ Lunara backend running on port 5000
 Bash
 
 ```
-npm start
+npm expo start -c
 ```
 
 Then:
